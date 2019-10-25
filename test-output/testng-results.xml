@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="softwaretestingmaterial" duration-ms="3203" started-at="2019-10-25T03:57:50Z" finished-at="2019-10-25T03:57:53Z">
+  <suite name="Default suite" duration-ms="3286" started-at="2019-10-25T05:33:13Z" finished-at="2019-10-25T05:33:16Z">
     <groups>
     </groups>
-    <test name="testngTest" duration-ms="3203" started-at="2019-10-25T03:57:50Z" finished-at="2019-10-25T03:57:53Z">
+    <test name="Default test" duration-ms="3286" started-at="2019-10-25T05:33:13Z" finished-at="2019-10-25T05:33:16Z">
       <class name="testCases.googleSearch">
-        <test-method status="PASS" signature="search()[pri:0, instance:testCases.googleSearch@7cd62f43]" name="search" duration-ms="3167" started-at="2019-10-25T03:57:50Z" finished-at="2019-10-25T03:57:53Z">
+        <test-method status="PASS" signature="search()[pri:0, instance:testCases.googleSearch@67784306]" name="search" duration-ms="3239" started-at="2019-10-25T05:33:13Z" finished-at="2019-10-25T05:33:16Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- search -->
       </class> <!-- testCases.googleSearch -->
-    </test> <!-- testngTest -->
-  </suite> <!-- softwaretestingmaterial -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
