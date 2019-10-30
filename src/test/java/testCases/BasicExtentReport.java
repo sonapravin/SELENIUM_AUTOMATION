@@ -34,7 +34,7 @@ public class BasicExtentReport {
 
     
     @Test
-    public void testCase1() {
+    public void testCaseOne() {
     	logger = extent.createTest("Test Case 1", "PASSED test case1");
       	logger.log(Status.INFO,"testcase 1");
     	logger.log(Status.PASS, "testcase1 failed");
@@ -42,7 +42,7 @@ public class BasicExtentReport {
     }
 
     @Test
-    public void testCase2() throws IOException {
+    public void testCaseTwo() throws IOException {
     	logger = extent.createTest("Test Case 2", "PASSED test case1");
       	logger.log(Status.INFO,"testcase 2");
     	logger.log(Status.FAIL, "testcase2 failed");
